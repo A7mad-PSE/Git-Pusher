@@ -26,4 +26,4 @@
 **Git Pusher** is a simple yet powerful shell script that automates the entire process of pushing a new project to GitHub. 
 
 Instead of manually typing:
-```bash
+bash
