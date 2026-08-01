@@ -231,5 +231,5 @@ Your support helps improve the project and motivates future development.
 ---
 
 <p align="center">
-Made with ❤️ by Ahmad Hasan
+Made with ❤️ by Ahmad Ali-Hasan
 </p>
